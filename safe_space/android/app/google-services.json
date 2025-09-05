@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314001016547",
+    "project_id": "safespace-58d53",
+    "storage_bucket": "safespace-58d53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314001016547:android:aa2aad088c8a8075c5e7d6",
+        "android_client_info": {
+          "package_name": "com.example.safe_space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0UgFw4HBgbdY_TTDR96pj3eF79TvQkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
